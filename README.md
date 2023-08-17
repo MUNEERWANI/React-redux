@@ -1,6 +1,6 @@
 # React-redux
 <h1>in this project what i have done?</h1>
-<p>I have implemented react -redux ,how to manage the state using react redux</p>
+<p>I have implemented react -redux ,how to manage the state using react redux,i have done all the basics like implementing redux via toolkit or without it as well </p>
 <ul>
   <li>Auth management using redux </li>
     <li>counter to show basics</li>
